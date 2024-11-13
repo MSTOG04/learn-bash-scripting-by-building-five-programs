@@ -59,3 +59,4 @@ man echo
 touch countdown.sh
 chmod +x
 chmod +x countdown.sh
+ls --color=auto -l
