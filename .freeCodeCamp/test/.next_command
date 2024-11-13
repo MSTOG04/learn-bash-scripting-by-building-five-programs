@@ -44,3 +44,4 @@ ls-l
 ls-l
 ./questionnaire.sh
 ./questionnaire.sh
+read QUESTION1
