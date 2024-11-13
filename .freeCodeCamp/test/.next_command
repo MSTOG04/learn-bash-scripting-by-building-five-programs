@@ -70,3 +70,4 @@ man
 man echo
 man if
 help if
+./countdown.sh arg1 arg2 arg3
